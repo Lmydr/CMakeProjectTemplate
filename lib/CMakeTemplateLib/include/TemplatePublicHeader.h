@@ -1,0 +1,6 @@
+#ifndef TEMPLATEPUBLICHEADER_H
+#define TEMPLATEPUBLICHEADER_H
+
+void PrintHelloMessage();
+
+#endif // TEMPLATEPUBLICHEADER_H
